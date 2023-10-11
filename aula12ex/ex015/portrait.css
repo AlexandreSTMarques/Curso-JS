@@ -7,3 +7,10 @@ header{
     color:white;
 }
 
+body{
+   width: auto;
+}
+
+section{
+    width: 400px;
+}
